@@ -1,0 +1,22 @@
+{
+  "name": "memo-tempo",
+  "version": "1.0.0",
+  "description": "memoizer with a simple api for arg-level expiration",
+  "main": "memo-tempo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrest-akin/memo-tempo.git"
+  },
+  "keywords": [
+    "memoize"
+  ],
+  "author": "Forrest Akin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forrest-akin/memo-tempo/issues"
+  },
+  "homepage": "https://github.com/forrest-akin/memo-tempo#readme"
+}
